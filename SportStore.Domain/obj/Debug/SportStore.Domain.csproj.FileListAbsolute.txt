@@ -1,0 +1,39 @@
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.Domain\bin\Debug\SportStore.Domain.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.Domain\bin\Debug\SportStore.Domain.pdb
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.Domain\obj\Debug\SportStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.Domain\obj\Debug\SportStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.Domain\obj\Debug\SportStore.Domain.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.Domain\obj\Debug\SportStore.Domain.pdb
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.Domain\bin\Debug\SportStore.Domain.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.Domain\bin\Debug\SportStore.Domain.pdb
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.Domain\obj\Debug\SportStore.Domain.csprojAssemblyReference.cache
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.Domain\obj\Debug\SportStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.Domain\obj\Debug\SportStore.Domain.csproj.CopyComplete
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.Domain\obj\Debug\SportStore.Domain.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.Domain\obj\Debug\SportStore.Domain.pdb

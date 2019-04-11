@@ -1,0 +1,263 @@
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\SportStore.MVC.dll.config
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\SportStore.MVC.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\SportStore.MVC.pdb
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\Microsoft.Win32.Primitives.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\netstandard.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.AppContext.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Collections.Concurrent.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Collections.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Collections.NonGeneric.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Collections.Specialized.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.ComponentModel.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.ComponentModel.Primitives.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Console.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Data.Common.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Diagnostics.Contracts.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Diagnostics.Debug.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Diagnostics.Process.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Diagnostics.StackTrace.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Diagnostics.Tools.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Diagnostics.TraceSource.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Diagnostics.Tracing.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Drawing.Primitives.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Dynamic.Runtime.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Globalization.Calendars.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Globalization.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Globalization.Extensions.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.IO.Compression.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.IO.Compression.ZipFile.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.IO.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.IO.FileSystem.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.IO.IsolatedStorage.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.IO.Pipes.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Linq.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Linq.Expressions.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Linq.Parallel.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Linq.Queryable.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Net.Http.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Net.NameResolution.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Net.NetworkInformation.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Net.Ping.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Net.Primitives.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Net.Requests.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Net.Security.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Net.Sockets.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Net.WebHeaderCollection.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Net.WebSockets.Client.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Net.WebSockets.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.ObjectModel.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Reflection.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Reflection.Extensions.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Reflection.Primitives.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Resources.Reader.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Resources.ResourceManager.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Resources.Writer.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Runtime.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Runtime.Extensions.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Runtime.Handles.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Runtime.InteropServices.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Runtime.Numerics.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Runtime.Serialization.Json.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Security.Claims.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Security.Cryptography.Csp.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Security.Principal.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Security.SecureString.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Text.Encoding.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Text.Encoding.Extensions.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Text.RegularExpressions.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Threading.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Threading.Overlapped.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Threading.Tasks.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Threading.Thread.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Threading.ThreadPool.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Threading.Timer.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.ValueTuple.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Xml.ReaderWriter.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Xml.XDocument.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Xml.XmlDocument.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Xml.XmlSerializer.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Xml.XPath.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Xml.XPath.XDocument.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\Castle.Core.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\Moq.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\Ninject.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\SportStore.Domain.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Web.Helpers.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Web.Mvc.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Web.Razor.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Web.Webpages.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\SportStore.Domain.pdb
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\Castle.Core.xml
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\Moq.pdb
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\Moq.xml
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\Ninject.xml
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Web.Razor.xml
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Web.Webpages.xml
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Web.Helpers.xml
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\bin\System.Web.Mvc.xml
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\obj\Debug\SportStore.MVC.csprojResolveAssemblyReference.cache
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\obj\Debug\SportStore.MVC.csproj.CoreCompileInputs.cache
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\obj\Debug\SportStore.MVC.dll
+C:\Users\LabUser27\Desktop\VARUJANASPNET\SportStore\SportStore.MVC\obj\Debug\SportStore.MVC.pdb
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\SportStore.MVC.dll.config
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\SportStore.MVC.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\SportStore.MVC.pdb
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\netstandard.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.AppContext.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Collections.Concurrent.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Collections.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Collections.NonGeneric.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Collections.Specialized.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.ComponentModel.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.ComponentModel.Primitives.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Console.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Data.Common.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Diagnostics.Contracts.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Diagnostics.Debug.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Diagnostics.Process.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Diagnostics.Tools.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Diagnostics.Tracing.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Drawing.Primitives.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Dynamic.Runtime.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Globalization.Calendars.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Globalization.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Globalization.Extensions.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.IO.Compression.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.IO.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.IO.FileSystem.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.IO.IsolatedStorage.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.IO.Pipes.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Linq.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Linq.Expressions.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Linq.Parallel.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Linq.Queryable.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Net.Http.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Net.NameResolution.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Net.NetworkInformation.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Net.Ping.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Net.Primitives.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Net.Requests.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Net.Security.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Net.Sockets.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Net.WebSockets.Client.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Net.WebSockets.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.ObjectModel.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Reflection.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Reflection.Extensions.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Reflection.Primitives.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Resources.Reader.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Resources.ResourceManager.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Resources.Writer.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Runtime.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Runtime.Extensions.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Runtime.Handles.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Runtime.InteropServices.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Runtime.Numerics.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Security.Claims.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Security.Principal.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Security.SecureString.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Text.Encoding.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Text.RegularExpressions.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Threading.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Threading.Overlapped.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Threading.Tasks.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Threading.Thread.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Threading.ThreadPool.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Threading.Timer.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.ValueTuple.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Xml.ReaderWriter.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Xml.XDocument.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Xml.XmlDocument.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Xml.XmlSerializer.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Xml.XPath.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\Castle.Core.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\Moq.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\Ninject.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\SportStore.Domain.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Web.Helpers.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Web.Mvc.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Web.Razor.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Web.Webpages.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\SportStore.Domain.pdb
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\Castle.Core.xml
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\Moq.pdb
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\Moq.xml
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\Ninject.xml
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Web.Razor.xml
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Web.Webpages.xml
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Web.Helpers.xml
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\bin\System.Web.Mvc.xml
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\obj\Debug\SportStore.MVC.csprojAssemblyReference.cache
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\obj\Debug\SportStore.MVC.csproj.CoreCompileInputs.cache
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\obj\Debug\SportStore.MVC.csproj.CopyComplete
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\obj\Debug\SportStore.MVC.dll
+C:\Users\Varujan Tribunyan\Desktop\SportStoreInClass\SportStore.MVC\obj\Debug\SportStore.MVC.pdb
